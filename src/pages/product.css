@@ -1,0 +1,214 @@
+.header {
+    background-color: aqua;
+}
+
+* {
+    outline: none;
+}
+
+.logo h1 {
+    padding: 30px 40%;
+    background-color: #C9D7DD;
+    justify-content: end;
+    font-family: "Courgette", cursive;
+    font-weight: 400;
+    font-style: normal;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.banner .card-img-overlay {
+    align-items: center !important;
+    padding: 100px 50px;
+
+}
+
+.banner .card-img-overlay h5 {
+    font-size: 26px;
+}
+
+.banner .card-img-overlay h1 {
+    font-size: 70px;
+}
+
+.card-group {
+    margin: 100px 0;
+}
+
+.boxcard .box {
+    margin: 15px 0;
+    text-align: center;
+    border: 2px solid gray;
+   
+}
+.boxcard{
+    margin-left: 30px;
+}
+.boxcard .box h5{
+    margin:5px 0;
+}
+.card-img-top {
+    padding: 0 10px;
+    margin: 15px 0;
+    height: 540px;
+    width:500px !important;
+   padding-left:60px;
+    background-size: cover;
+}
+.card-img-top1{
+    padding: 0 10px;
+    margin: 15px 0;
+    height: 540px;
+    width:500px !important;
+    padding-right:60px;
+    background-size: cover;
+}
+
+ .card .card-img-top3 {
+    height: 200px;
+    object-fit: cover;
+    background-size: cover;
+    transition: all 0.5s;
+    background-position: center;
+}
+
+.card {
+    overflow: hidden;
+    transition: all 0.5s;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    color: #304D30;
+}
+
+a{
+    text-decoration: none!important ;
+    color: inherit !important;
+}
+
+.card3{
+    font-family: "Noto Serif", serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: italic;
+    color: #304D30;
+    font-variation-settings:
+        "width" 100;
+    background-color: #F0F0F0 !important;
+
+}
+ul{
+    list-style: none;
+    margin: 0;
+    padding : 0;
+}
+
+.card3 h5 {
+    text-align: left;
+    font-size: 22px;
+    font-weight: 400;
+    font-style: normal;
+
+}
+
+.card3 p {
+    text-align: left;
+    font-size: 20px;
+    font-weight: 400;
+    font-style: normal;
+
+
+
+}
+
+.card-body span {
+    padding: 50px 0;
+
+}
+
+.greate{
+    height:300px;
+    background-color:#f7f7f8;
+    position:relative;
+    margin-top:50px;
+   
+}
+.greate1{
+    border:1px solid gray;
+    margin:5px;
+}
+
+.greate1 .kk img{
+    width:107%;
+    height:300px;
+    margin:0 -14px;
+    margin-bottom:-18px;
+}
+.button-1:hover {
+    box-shadow: 0 0 10px 0 white inset, 0 0 20px 2px white;
+
+} 
+
+.back ,.back1 ,.back2 {
+    background-image: url('https://maraviyainfotech.com/projects/carrot/carrot-v2/carrot-html/assets/img/product-banner/1.jpg');
+    padding: 30px 0 ;
+    background-size: cover;
+
+    
+}
+.deal{
+    position: relative;
+   
+    padding: 30px 0 ;
+    background-size: cover;
+}
+
+.back5{
+    position: absolute;
+    
+    top:30%;
+    padding:25px 0;
+    left:10%;
+    background-color: rgba(255, 255, 255, 0.22);
+    box-shadow: -3px 3px 8px 5px rgba(0, 0, 0, 0.05);
+}
+.pc{
+    margin:100px 0;
+}
+.gt img{
+    border-radius: 50%;
+    width:100px;
+   position: absolute;
+   top:-40px;
+   left:0;
+   right:0;
+   margin:0 auto;
+    
+}
+.back4 p{
+    color:#7a7a7a;
+}
+.back4{
+    background-color:#f7f7f8;
+}
+.back4 i{
+    color:#64b496;
+}
+.back1{
+    background-image: url('https://maraviyainfotech.com/projects/carrot/carrot-v2/carrot-html/assets/img/product-banner/2.jpg');
+}
+.back2{
+    background-image: url('https://maraviyainfotech.com/projects/carrot/carrot-v2/carrot-html/assets/img/product-banner/3.jpg');
+}
+.deal{
+    background-image: url('https://maraviyainfotech.com/projects/carrot/carrot-v2/carrot-html/assets/img/deal/bg-deal.jpg');
+    height:600px;
+    width:100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding:50px 0;
+}
+
+footer{
+     background-color: #f7f7f8;
+     border-top: 1px solid #e9e9e9;
+     padding: 100px 0 0 0;
+}
